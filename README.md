@@ -9,7 +9,6 @@ It serves as a technical sandbox to test how data moves between players in real-
 
 ## 📸 Screenshots & Visuals
 
-> *Replace these placeholders with your actual screenshots (e.g., showing two separate game windows side-by-side).*
 
 | Client A (Host) | Client B (Joined Player) |
 |:---:|:---:|
