@@ -58,4 +58,4 @@ To test the multiplayer synchronization locally:
 ---
 
 ## 📝 Author & Academic Context
-Developed by **[Burak ABANOZ]** as part of an independent research project to master multiplayer game development mechanics and network infrastructure. Includes components documented in the project's online multiplayer research report.
+Developed by **Burak ABANOZ** as part of an independent research project to master multiplayer game development mechanics and network infrastructure. Includes components documented in the project's online multiplayer research report.
